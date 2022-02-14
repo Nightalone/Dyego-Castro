@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Dyego Castro
 
 - 🔭 Hoje estou buscando trabalho como Dev front-end
-- 🌱 Estudando React
+
 
  <div>
   <a href="https://github.com/Nightalone">
